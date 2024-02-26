@@ -1,0 +1,17 @@
+.card-todo {
+  width: 400px;
+  background-color: antiquewhite;
+  border-radius: 5px;
+  padding: 5px;
+
+  margin: 0 auto;
+}
+
+.card-todo p {
+  /* width: 100%; */
+  background-color: aliceblue;
+  padding: 12px;
+  color: black;
+
+  border-radius: 5px;
+}
